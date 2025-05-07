@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\templatemo-digimedia-v1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v1.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\templatemo-digimedia-v2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\templatemo-digimedia-v3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\about-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\about-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\about-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\about-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\author-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\blog-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\blog-post-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-bottom-right-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-bottom-right-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-bottom-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-top-right-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-top-right-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\contact-top-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\demo-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\demo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\demo-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\email-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\footer-bg-v2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\footer-bg-v3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\location-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\location-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\logo-v1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\logo-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\logo-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\phone-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\portfolio-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\quote-bg-v2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\quote-bg-v3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\quote-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\service-icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\service-icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\service-icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\service-icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\services-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\slider-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\slider-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\slider-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\slider-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\images\\slider-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
